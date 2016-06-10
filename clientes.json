@@ -1,0 +1,34 @@
+{
+	"clientes":[
+		{
+			"codigo":1,
+			"nombre":"Marco Antonio",
+			"apellido":"Espinal Carnero",
+			"cargo":"Software Engineer"
+		},
+		{
+			"codigo":2,
+			"nombre":"Marco Antonio",
+			"apellido":"Espinal Carnero",
+			"cargo":"Software Engineer"
+		},
+		{
+			"codigo":3,
+			"nombre":"Marco Antonio",
+			"apellido":"Espinal Carnero",
+			"cargo":"Software Engineer"
+		},
+		{
+			"codigo":4,
+			"nombre":"Marco Antonio",
+			"apellido":"Espinal Carnero",
+			"cargo":"Software Engineer"
+		},
+		{
+			"codigo":5,
+			"nombre":"Marco Antonio",
+			"apellido":"Espinal Carnero",
+			"cargo":"Software Engineer"
+		}
+	]
+}
