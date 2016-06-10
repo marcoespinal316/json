@@ -1,0 +1,74 @@
+{
+	"clientes":[
+		{
+			"codigo":1,
+			"nombre":"Anakin",
+			"Skywalker",
+			"cargo":"Jedi",
+			"descripcion":"Esto es un texto de prueba para poder hacer el detalle de una entidad."
+		},
+		{
+			"codigo":2,
+			"nombre":"Obi Wan",
+			"Kenobi",
+			"cargo":"Jedi",
+			"descripcion":"Esto es un texto de prueba para poder hacer el detalle de una entidad."
+		},
+		{
+			"codigo":3,
+			"nombre":"Luke",
+			"Skywalker",
+			"cargo":"Jedi",
+			"descripcion":"Esto es un texto de prueba para poder hacer el detalle de una entidad."
+		},
+		{
+			"codigo":4,
+			"nombre":"Han",
+			"Solo",
+			"cargo":"Jedi",
+			"descripcion":"Esto es un texto de prueba para poder hacer el detalle de una entidad."
+		},
+		{
+			"codigo":5,
+			"nombre":"Chewbacca",
+			"Chewie",
+			"cargo":"Jedi",
+			"descripcion":"Esto es un texto de prueba para poder hacer el detalle de una entidad."
+		},
+		{
+			"codigo":6,
+			"nombre":"Yoda",
+			"Yogurt",
+			"cargo":"Jedi",
+			"descripcion":"Esto es un texto de prueba para poder hacer el detalle de una entidad."
+		},
+		{
+			"codigo":7,
+			"nombre":"Kurko",
+			"Vein",
+			"cargo":"Jedi",
+			"descripcion":"Esto es un texto de prueba para poder hacer el detalle de una entidad."
+		},
+		{
+			"codigo":8,
+			"nombre":"La Freddie",
+			"Mercury",
+			"cargo":"Jedi",
+			"descripcion":"Esto es un texto de prueba para poder hacer el detalle de una entidad."
+		},
+		{
+			"codigo":9,
+			"nombre":"Chris",
+			"Martin",
+			"cargo":"Jedi",
+			"descripcion":"Esto es un texto de prueba para poder hacer el detalle de una entidad."
+		},
+		{
+			"codigo":10,
+			"nombre":"Jimmy",
+			"Page",
+			"cargo":"Jedi",
+			"descripcion":"Esto es un texto de prueba para poder hacer el detalle de una entidad."
+		}
+	]
+}
